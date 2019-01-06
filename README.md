@@ -1,2 +1,4 @@
 # Text-Analytics
-Text Mining and analytics
+Text Mining to extract information
+Text classification: Spam filter
+Text Similarities and topic modeling
